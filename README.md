@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preet2099x&label=Profile%20views&color=0e75b6&style=flat" alt="preet2099x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preet2099x" alt="preet2099x" /></a> </p>
 
 - 🔭 I’m currently working on **PDF-RAG**
 
@@ -29,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preet2099x&" alt="preet2099x" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=preet2099x&show_icons=true&theme=transparent)
+
