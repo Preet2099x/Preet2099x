@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preet2099x&label=Profile%20views&color=0e75b6&style=flat" alt="preet2099x" /> </p>
 
 
-- 🔭 I’m currently working on **PDF-RAG**
+- 🔭 I’m currently working on **DigiArogya: A Healthcare Platform**
 
 - 🌱 I’m currently learning **Web Development**
 
