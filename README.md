@@ -30,27 +30,3 @@
 </div>
 
 <br/>
-
-<!-- Stats & Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=preet2099x&theme=radical&no-frame=true&column=7&margin-w=15" />
-  <br/>
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=preet2099x&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preet2099x&layout=compact&theme=radical" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preet2099x&theme=radical" alt="preet2099x" />
-</div>
-
-
-<!-- Views & Quote -->
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=preet2099x&label=Profile%20views&color=0e75b6&style=flat" alt="preet2099x" />
-  <br>
-  <br>
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in" alt="Random Dev Quote" />
-</div>
-
-
