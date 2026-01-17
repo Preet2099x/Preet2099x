@@ -43,15 +43,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=preet2099x&theme=radical" alt="preet2099x" />
 </div>
 
-<!-- Snake Animation -->
-<h3 align="center">🧩 Contributions</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/preet2099x/preet2099x/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/preet2099x/preet2099x/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/preet2099x/preet2099x/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 <!-- Views & Quote -->
 <div align="center">
